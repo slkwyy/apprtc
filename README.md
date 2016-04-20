@@ -19,6 +19,7 @@ distributed as part of nodejs.
 
 ```
 sudo apt-get install nodejs
+sudo apt-get install npm
 sudo npm install -g npm
 ```
 
